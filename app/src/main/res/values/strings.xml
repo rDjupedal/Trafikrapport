@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trafikrapport beta 0.1</string>
+    <string name="loading">Loading from server..</string>
+    <string name="serverError">Error getting data from the server: </string>
+    <string name="mediaErr">Media player error </string>
+</resources>
